@@ -1,7 +1,13 @@
 ### Hi there 👋
+<br>
+<p> <img src="https://komarev.com/ghpvc/?username=mauroartizzu&label=Profile%20views&color=blueviolet&style=flat" alt="mauroartizzu" /> <img src="https://shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/mauroartizzu/interval:30_days&color=blueviolet&label=Coding%20stats%20(last 30 days)" /> </p>
 
-[![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroartizzu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=mauroartizzu&show_icons=true&hide_border=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mauroartizzu&api_domain=wakapi.dev&range=30_days&hide_border=true&theme=radical&custom_title=Coding%20stats%20(last%2030%20days)&layout=compact" />
+
 <!--
+[![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroartizzu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 **mauroartizzu/mauroartizzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
