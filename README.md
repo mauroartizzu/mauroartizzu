@@ -4,7 +4,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mauroartizzu&show_icons=true&hide_border=true&theme=radical" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mauroartizzu&api_domain=wakapi.dev&range=30_days&hide_border=true&theme=radical&custom_title=Coding%20stats%20(last%2030%20days)&layout=compact" />
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauroartizzu" alt="mauroartizzu" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauroartizzu&show_icons=true&locale=en&layout=compact" alt="mauroartizzu" /></p>
 <!--
 [![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroartizzu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
